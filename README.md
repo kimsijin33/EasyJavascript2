@@ -10,7 +10,7 @@ fatal: unable to access 'https://github.com/kimsijin33/EasyJavascript2.git/': Th
 
 해결 방법
 
-저장소 주소을 아래와 같이 변경<br>
+저장소 주소를 아래와 같이 변경<br>
 % git remote set-url origin https://KimSiJin@github.com/kimsijin33/EasyJavascript2.git<br>
 % git remote -v<br>
 origin	https://KimSiJin@github.com/kimsijin33/EasyJavascript2.git (fetch)<br>
